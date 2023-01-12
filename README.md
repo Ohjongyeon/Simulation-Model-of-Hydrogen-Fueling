@@ -1,4 +1,4 @@
-# Simulation-Model-of-Hydrogen-
+# Simulation-Model-of-Hydrogen-Fueling
 
 1. Unzip the property models file and place it in the same folder as the code file.
 2. Conduct simulation under base conditions through execution code.
